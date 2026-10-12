@@ -6,18 +6,6 @@ The application allows users to answer multiple-choice questions, track their sc
 
 ---
 
-## 🚀 Live Demo
-
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
-
----
-
-## 📸 Preview
-
-![Daily Quiz App Preview](./preview.png)
-
----
-
 ## ✨ Features
 
 - 🧠 Multiple-choice questions
@@ -82,6 +70,5 @@ i-build-11-quiz-app/
 ├── index.html
 ├── style.css
 ├── script.js
-├── preview.png
 └── README.md# i-build-11-quiz-app
 I BUILD #11/80 — An interactive Daily Quiz App built with HTML, CSS and JavaScript.
